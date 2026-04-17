@@ -1,4 +1,4 @@
-# Operating-Systems-and-Computer-Networking
+# Operating-Systems-and-Computer-Networking Coursework Overview
 
 This project demonstrates practical implementation of core operating systems and networking concepts using Linux and Cisco Packet Tracer. It combines system-level programming, process analysis, and network design to simulate real-world computing environments.
 
